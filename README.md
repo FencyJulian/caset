@@ -1,8 +1,11 @@
 # caset
 Spring recipies
 src/
+
 └── main/
+
     ├── java/
+    
     │   └── com/
     │       └── yourdomain/
     │           └── chatapp/                    # Replace `chatapp` with your app's name
