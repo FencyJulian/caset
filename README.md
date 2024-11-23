@@ -66,9 +66,9 @@ src/
         ├── schema.sql                          # SQL schema for database initialization (optional)
         └── data.sql                            # SQL data for initial seeding (optional)
 
-└── test/
-    ├── java/
-    │   └── com/
+└── test/ 
+    ├── java/ 
+    │   └── com/ 
     │       └── yourdomain/
     │           └── chatapp/
     │               ├── controller/             # Controller tests
