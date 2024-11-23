@@ -67,8 +67,11 @@ src/
         └── data.sql                            # SQL data for initial seeding (optional)
 
 └── test/ 
+
     ├── java/ 
+    
     │   └── com/ 
+    
     │       └── yourdomain/
     │           └── chatapp/
     │               ├── controller/             # Controller tests
