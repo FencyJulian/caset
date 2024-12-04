@@ -1,5 +1,3 @@
-Sure! Here’s a more detailed `README.md` file for Caset:
-
 ```markdown
 # Caset
 
