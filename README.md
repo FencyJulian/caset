@@ -14,7 +14,7 @@ Swagger with Express JS using:
 1. [swagger-ui-express](https://github.com/scottie1984/swagger-ui-express)
 2. [swagger-jsdoc](https://github.com/Surnet/swagger-jsdoc)
 
-## Getting Started
+### Getting Started
 
 ### Prerequisites
 
@@ -23,20 +23,20 @@ Make sure you have the following installed on your machine:
 - [Node.js](https://nodejs.org/)
 - [npm](https://www.npmjs.com/)
 
-### Installation
+## Installation
 
 To install the necessary packages, run:
 
-```bash
+```
 npm install
 ```
 ````
 
-### Running the Application
+## Running the Application
 
 To start the application with nodemon, run:
 
-```bash
+```
 nodemon app.js
 ```
 
