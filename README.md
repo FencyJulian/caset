@@ -1,6 +1,6 @@
 Sure! Here’s a more detailed `README.md` file for Caset:
 
-````markdown
+```markdown
 # Caset
 
 Caset is a backend for a Super App, starting with a Chat Feature.
@@ -22,6 +22,7 @@ Make sure you have the following installed on your machine:
 
 - [Node.js](https://nodejs.org/)
 - [npm](https://www.npmjs.com/)
+```
 
 ## Installation
 
@@ -30,7 +31,6 @@ To install the necessary packages, run:
 ```
 npm install
 ```
-````
 
 ## Running the Application
 
@@ -53,6 +53,5 @@ http://localhost:2410/
 No License as of now. Once the project is open-sourced, License and Contribution guidelines will be updated.
 
 ```
-
 Feel free to adjust any of the details as necessary. Happy coding! 🚀
 ```
